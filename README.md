@@ -63,11 +63,11 @@ curl -L -o TermuxBasics.apk https://github.com/Anon4You/Termux-Basics/releases/d
 | 1️⃣7️⃣ Anonymity | Tor, proxychains |
 | 1️⃣8️⃣ AlienKrishn Repo | 70+ hacking tools |
 
-## 🖼 Screenshots
+## 🖼 screenshots
 
-| Main Menu | Command View | Dark Theme |
+| Main Menu | About View | Command Theme |
 |-----------|--------------|------------|
-| ![Main](https://github.com/Anon4You/Termux-Basics/raw/main/assets/screen1.png) | ![Commands](https://github.com/Anon4You/Termux-Basics/raw/main/assets/screen2.png) | ![Dark](https://github.com/Anon4You/Termux-Basics/raw/main/assets/screen3.png) |
+| ![Main](https://github.com/Anon4You/Termux-Basics/raw/main/assets/screenshot1.jpg) | ![Commands](https://github.com/Anon4You/Termux-Basics/raw/main/assets/screenshot2.jpg) | ![Dark](https://github.com/Anon4You/Termux-Basics/raw/main/assets/screenshot3.jpg) |
 
 ## 🧑‍💻 About Developer
 
